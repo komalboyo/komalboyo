@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Komal-Mathur
-- 👀 I’m interested in Coding and AI
-- 🌱 I’m currently learning Python and MySQL
+- 👀 I’m interested in AI and Machine Learning
+- 🌱 I’m currently learning Python, C, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
