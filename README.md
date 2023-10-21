@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Komal-Mathur
-- 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Python, C, C++
+- 👀 I’m interested in Deep Learning, NLP and Generative AI
+- 🌱 Languages known- Python, C, C++, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
