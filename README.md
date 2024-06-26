@@ -2,12 +2,11 @@
 <h3 align="center">I am a Computer Science Junior from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=komalboyo&label=Profile%20views&color=0e75b6&style=flat" alt="komalboyo" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalboyo&" alt="komalboyo" /></p>
 
 
-- 🔭 I’m currently working on **Natural Language Processing**
+- 🔭 I’m currently working on **Natural Language Processing, Generative AI and multimodal Deception Detection**
 
-- 🌱 I’m currently researching **Federated Learning, Explainable AI**
+- 🌱 My research interests include **LLMs and Prompt engineering, Privacy preservation in ML and Explainable AI**
 
 - 📫 How to reach me **komlixmathur@gmail.com**
 
