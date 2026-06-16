@@ -1,26 +1,38 @@
-<h1 align="center">Hi 👋, I'm Komal Mathur</h1>
-<h3 align="center">I am a Computer Science Junior from India</h3>
+<h1 align="center">Hi, I'm Komal Mathur 👋</h1>
+<p align="center"><b>I love to build at the cutting edge of AI.</b></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=komalboyo&label=Profile%20views&color=0e75b6&style=flat" alt="komalboyo" /> </p>
 
+---
 
-- 🔭 I’m currently working on **Natural Language Processing, Generative AI and multimodal Deception Detection**
+🛠️ &nbsp;Building AI products **@ [Stage](https://www.stage.in)** — voice agents, character bots, and agentic systems shipped to real users at scale.
 
-- 🌱 My research interests include **LLMs and Prompt engineering, Privacy preservation in ML and Explainable AI**
+🔬 &nbsp;Into **mechanistic interpretability** and what's actually going on inside LLMs. Previously built AI at **BNY**, **Meta / Mythos Labs**, **Samsung R&D**, and **Naukri**.
 
-- 📫 How to reach me **komlixmathur@gmail.com**
+🏆 &nbsp;1st of 699 teams across 102 countries @ CyberAI Cup 2024 · ranked 1/2684 at MIT Manipal · published @ **EMNLP 2023** & **IEEE Access**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/komal-mathur-2a39a91ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/komal-mathur-2a39a91ab/" height="30" width="40" /></a>
-</p>
+🌱 &nbsp;I ship fast, go deep, and open-source what I learn. Ask me about agents, voice AI, and interpretability.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### ✨ A few things I've built
 
+- **[Niffler](https://goniffler.com)** — a personal AI knowledge graph for X/Twitter: one-click saving, LLM auto-organization, a 3D graph, and an MCP server for Claude Code. *(open source)*
+- **[AutoInterpret](https://github.com/komalboyo/autointerpret)** — an AI agent that runs neural-architecture search to discover inherently more interpretable networks.
+- More over at **[komalboyo.github.io](https://komalboyo.github.io)** →
 
+### 🧰 Mostly working in
 
-<!---
-Komal-Mathur/Komal-Mathur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+### 🤝 Connect
+
+[Website](https://komalboyo.github.io) · [LinkedIn](https://www.linkedin.com/in/komal-mathur-2a39a91ab/) · [Email](mailto:komlixmathur@gmail.com)
+
+<!--
+komalboyo/komalboyo is a ✨ special ✨ repository — its README.md appears on your GitHub profile.
+The Profile-views counter above (komarev, tied to the komalboyo username) preserves your existing count — keep that <img> tag.
+-->
