@@ -30,7 +30,7 @@
 
 ### 🤝 Connect
 
-[Website](https://komalboyo.github.io) · [LinkedIn](https://www.linkedin.com/in/komal-mathur-2a39a91ab/) · [Email](mailto:komlixmathur@gmail.com)
+[Website](https://komalboyo.github.io) · [LinkedIn](https://www.linkedin.com/in/komalmathur01/) · [Email](mailto:komlixmathur@gmail.com)
 
 <!--
 komalboyo/komalboyo is a ✨ special ✨ repository — its README.md appears on your GitHub profile.
