@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Komal Mathur 👋</h1>
-<p align="center"><b>I love to build at the cutting edge of AI.</b></p>
+<p align="center"><b>I like building and solving problems.</b></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=komalboyo&label=Profile%20views&color=0e75b6&style=flat" alt="komalboyo" /> </p>
 
