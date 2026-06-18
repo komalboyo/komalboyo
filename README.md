@@ -5,13 +5,11 @@
 
 ---
 
-🔬 &nbsp;Into **agents, voice AI, and mechanistic interpretability** — I build AI products that ship to real users, and like digging into what's actually going on inside LLMs.
-
 💼 &nbsp;Previously @ **Stage** · **BNY** · **Meta · Mythos Labs** · **Samsung R&D** · **Info Edge Ventures**
 
 🏆 &nbsp;1st of 699 teams across 102 countries @ CyberAI Cup 2024 · Ranked 1/2684 at MIT Manipal · Published @ **EMNLP 2023** & **IEEE Access**.
 
-🌱 &nbsp;I ship fast, go deep, and open-source what I learn. Ask me about agents, voice AI, and interpretability.
+🌱 &nbsp;I ship fast, go deep, and open-source what I learn.
 
 ### ✨ A few things I've built
 
